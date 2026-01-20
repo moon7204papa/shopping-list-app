@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"C:\\\\Users\\\\admin240129\\\\.claude\"\" 2>/dev/null || dir \"C:Usersadmin240129.claude\"\")",
+      "Bash(dir /s /b \"C:\\\\Users\\\\admin240129\\\\AppData\")",
+      "Bash(findstr:*)"
+    ]
+  }
+}
